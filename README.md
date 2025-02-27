@@ -72,5 +72,4 @@ Enterprise_Data_Warehousing/
 │   ├── QlikView_Dashboard_Screenshots/
 │   ├── QlikView_Report.docx
 │-- README.md
-│-- .gitignore
 ```
