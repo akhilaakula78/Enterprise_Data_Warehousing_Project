@@ -60,16 +60,15 @@ This repository contains three assignments for the BCIS 5610.001 Enterprise Data
 ```
 Enterprise_Data_Warehousing/
 │-- ERD_Assignment/
-│   ├── ERD_Model.sql
-│   ├── ERD_Diagram.png
-│   ├── ERD_Report.docx
+│   ├── ERD_SqlScript.sql
+│   ├── ERD_Model_Diagram.jpg
+│   ├── ERD_Report.pdf
 │-- Dimensional_Model_Assignment/
-│   ├── Dimensional_Model.sql
-│   ├── Dimensional_Model_Diagram.png
-│   ├── Dimensional_Model_Report.docx
+│   ├── DM_SqlScript.sql
+│   ├── DDM_Model_Diagram.png
+│   ├── DM_Report.pdf
 │-- QlikView_Assignment/
 │   ├── QlikView_Project.qvw
-│   ├── QlikView_Dashboard_Screenshots/
-│   ├── QlikView_Report.docx
+│   ├── QlikView_Report.pdf
 │-- README.md
 ```
